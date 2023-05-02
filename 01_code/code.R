@@ -77,7 +77,7 @@ L1_20_21_dendlist$average %>%
   set("labels_cex", 0.55) %>%
   plot(ylim = c(-0.15, 0.45), 
        axes = F, 
-       ylab = "proximity")
+       ylab = "Dissimilarity")
 axis(side = 2, at = seq(0, 0.4, 0.1))
 for (i in 1:6) {
   text(x = clust_xy$x[i], 
