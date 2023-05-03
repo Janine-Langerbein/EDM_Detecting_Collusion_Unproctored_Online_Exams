@@ -13,4 +13,4 @@ We used the `pacman` package to auto-install all necessary packages. Sometimes s
 
 ## Contact
 
-For any further questions, do not hesitate to contact janine.langerbein@vwl.uni-due.de 
+For any further questions, do not hesitate to contact janine.langerbein@vwl.uni-due.de .
