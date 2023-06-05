@@ -8,7 +8,7 @@ Due to the General Data Protection Regulation (DPR), the data provided in this r
 
 The main file of this analysis is `code.R`. However, the code will only execute correctly if you open the `EDM.Rproj` and then open the code file, which lies in folder `01_code`.
 
-We used the `pacman` package to auto-install all necessary packages. Depending on your security settings, the `pacman` package workflow may not execute correctly, and you must install the packages by hand. The used packages can be found in `01_code/packages.R`.
+We used the `pacman` package to auto-install all necessary packages. Depending on your security settings, the `pacman` package workflow might not execute, and you have to install the packages manually. The used packages can be found in `01_code/packages.R`.
 
 ## Contact
 
